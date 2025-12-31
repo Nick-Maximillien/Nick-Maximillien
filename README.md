@@ -1,110 +1,40 @@
-🚀 Nicholas Muthoki
+Nicholas Muthoki
 
-AI Engineer • Web3 Systems Builder • Full-Stack Architect
+Infrastructure • Web3 Systems • Applied AI
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00AAFF&center=true&vCenter=true&width=600&lines=AI+%26+Blockchain+Systems+Engineer;Full-Stack+Builder+%7C+Infra-First+Mindset;Turning+Complex+Problems+Into+Working+Systems" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Nick-Maximillien&style=flat-square&color=00aaff" /> <img src="https://img.shields.io/github/followers/Nick-Maximillien?style=flat-square&color=00aaff" /> </p>
-🎯 About Me
-const nick = {
-  location: "Nairobi, Kenya 🇰🇪",
-  roles: [
-    "AI Engineer",
-    "Blockchain / Web3 Engineer",
-    "Full-Stack Developer"
-  ],
-  focus: [
-    "Domain-specific AI systems",
-    "Blockchain infrastructure & smart contracts",
-    "End-to-end product engineering"
-  ],
-  philosophy: "Build systems that work in the real world — not just demos",
-  languages: ["Python", "TypeScript", "JavaScript", "Rust", "Solidity"],
-  stacks: {
-    frontend: ["Next.js", "React", "Tailwind CSS"],
-    backend: ["Django", "FastAPI", "Node.js"],
-    blockchain: ["Ethereum", "L2s", "ICP", "Solana"],
-    ai: ["PyTorch", "Computer Vision", "LLMs"],
-    infra: ["Docker", "PostgreSQL", "Redis", "Cloud"]
-  },
-  currentlyBuilding: [
-    "AI-powered legal & agricultural systems",
-    "Web3 infrastructure for trust-minimized workflows",
-    "Production-grade full-stack platforms"
-  ],
-  askMeAbout: [
-    "AI system design",
-    "Blockchain architecture",
-    "Scaling MVPs to production",
-    "Infra-first engineering"
-  ],
-  funFact: "I care more about reliability than buzzwords."
-};
+I design and build backend-orchestrated systems where correctness, determinism, and reliability matter.
+My work sits at the intersection of blockchain infrastructure, domain-specific AI, and production backend systems.
 
-🛠️ Tech Arsenal
-🎨 Frontend
+Currently: Founder & Lead Engineer at Ithoka Microsystems
 
+Selected Systems (End-to-End Ownership)
 
+I focus on building and owning complete systems — from core logic to deployment constraints.
 
+System	Architecture & Complexity	Stack
+Agrosight AI	Offline-First Inference Engine. Designed for low-connectivity environments. Runs compressed edge models locally and synchronizes structured metadata to a central store only when connectivity is available. Optimized for reliability over throughput.	Python, TensorFlow Lite, React, PWA
+DeFi Match Engine	Concurrent Order Matching Engine. Rust-based service focused on memory safety and deterministic execution. Designed to minimize race conditions and ordering ambiguity in high-frequency transaction intake.	Rust, Actix, WebSockets
+ArdhiChain Registry	Immutable Asset Registry. ERC-721–based land registry system emphasizing access-control patterns, metadata permanence, and auditability. Designed to model real-world property constraints on-chain.	Solidity, Hardhat, IPFS, Next.js
+Voting Governance System	Trust-Minimized State Machine. Separates identity, voting logic, and auditability to preserve integrity without exposing voter identity. Designed for transparent verification under adversarial assumptions.	Solidity, React, Subgraphs
+Engineering Philosophy
 
+Reliability over novelty
+Prefer boring, proven components on the critical path.
 
+Systems over features
+Data consistency, failure modes, and recovery paths matter more than UI polish.
 
+Infra is part of the product
+Deployment, secrets handling, and operational clarity are first-class design concerns.
 
+Active Focus
 
-⚙️ Backend & APIs
+Building a localized LLM inference pipeline for legal document analysis and auditing.
 
+Exploring cryptographic verification patterns for regulatory and governance workflows on public chains.
 
+Links
 
+https://ithoka-microsystems.vercel.app
 
-
-
-
-
-🧠 AI & Machine Learning
-
-
-
-
-
-
-
-
-🔗 Blockchain & Web3
-
-
-
-
-
-
-
-
-
-
-🚀 DevOps & Infra
-
-
-
-
-
-
-
-
-🌟 Featured Projects
-<p align="center"> <a href="https://github.com/Nick-Maximillien/AIforFoodSecurity"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nick-Maximillien&repo=AIforFoodSecurity&theme=tokyonight" /> </a> <a href="https://github.com/Nick-Maximillien/AutoBooksAI"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nick-Maximillien&repo=AutoBooksAI&theme=tokyonight" /> </a> </p> <p align="center"> <a href="https://github.com/Nick-Maximillien/votingDapp"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nick-Maximillien&repo=votingDapp&theme=tokyonight" /> </a> <a href="https://github.com/Nick-Maximillien/solana_project"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nick-Maximillien&repo=solana_project&theme=tokyonight" /> </a> </p>
-📊 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nick-Maximillien&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=Nick-Maximillien&theme=tokyonight" /> </p>
-🏆 Achievements
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Nick-Maximillien&theme=onedark&no-frame=true&row=1" /> </p>
-📫 Connect & Collaborate
-<p align="center"> <a href="https://www.linkedin.com/in/nicholas-muthoki"> <img src="https://img.shields.io/badge/LinkedIn-000?style=flat-square&logo=linkedin" /> </a> <a href="https://nick-maximillien.vercel.app"> <img src="https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel" /> </a> <a href="mailto:nicholasmuthoki@gmail.com"> <img src="https://img.shields.io/badge/Email-000?style=flat-square&logo=gmail" /> </a> </p>
-💭 Builder’s Note
-
-“Good engineering is invisible. If users notice it, something went wrong.”
-
-🚀 Open to:
-
-Serious collaborations
-
-Building production systems
-
-Long-term technical partnerships
-
-If it needs to work — not just look good — I’m interested.
+https://www.linkedin.com/in/nicholas-muthoki
