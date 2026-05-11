@@ -1,61 +1,56 @@
 # Nicholas Muthoki
 
-### Web3 • Fintech Systems • Applied AI Engineering
+### Software Developer | AI Integrations & Web3 Solutions
 
-I design and build production-grade systems at the intersection of **blockchain infrastructure**, **financial software**, and **applied AI**.  
-My focus is on correctness, security, and real-world usability — especially where money, data integrity, and automation matter.
+I build reliable, production-grade software that solves real-world operational bottlenecks for growing businesses, startups, and NGOs. My focus is on automated workflows, secure infrastructure, and practical AI that saves time and reduces manual errors.
 
-**Currently:** Founder & Lead Engineer at [Ithoka Microsystems](https://ithoka-microsystems.vercel.app)
+**Currently:** Founder & Software Developer at [Ithoka Microsystems](https://www.ithoka.systems)
 
 ---
 
 ## What I Work On
 
-I specialize in **end-to-end system ownership** — from protocol and backend architecture to frontend delivery and deployment.
+I specialize in **end-to-end full-stack development** — taking complex requirements and turning them into accessible, secure tools.
 
-- Web3 backends with secure wallet orchestration and signing
-- Financial systems enforcing accounting and ledger correctness
-- AI agents (RAG + LLMs) embedded into real production workflows
-- React/Next.js frontends for user-facing fintech applications
+- **Practical AI Integrations:** Building automated data extraction and processing pipelines (RAG, LLMs, Computer Vision) that actually work in production environments.
+- **Secure Web3 Infrastructure:** Developing smart contracts, wallet integrations, and privacy-preserving payment rails (EVM, Solana).
+- **Workflow Automation:** Replacing manual back-office tasks with secure, reliable backend microservices.
+- **Full-Stack Delivery:** Crafting clean, responsive user interfaces (React/Next.js, Typescript) backed by robust backends (NodeJS, Python, Go, Rust).
 
 ---
 
-## Selected Systems (End-to-End Ownership)
+## Selected Projects 
 
-| System | Description | Stack |
-|------|------------|-------|
-| **Autobooks AI** | Financial copilot that ingests invoices via OCR, parses them with LLMs, and generates structured accounting entries and insights using RAG over live ledger data. | FastAPI, Gemini / Ollama, MongoDB |
-| **Node.js Web3 Signing Server** | Secure backend wallet engine handling invisible wallets, encrypted key storage, and transaction signing without exposing private keys to the frontend. | Node.js, Web3.js, AES Encryption |
-| **Flash USD Token & DApp** | Full-stack Web3 application with a custom ERC-20 utility token, wallet connection, balance tracking, and token transfers via a React dashboard. | Solidity, Ethers.js, React (Next.js) |
-| **Accounting Domain Engine** | Django-based backend enforcing double-entry bookkeeping and IFRS-style validation before committing financial transactions. | Django, PostgreSQL |
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **AutoBooks Finance** | Automated bookkeeping engine that combines AI receipt parsing with secure Web3 payment rails for SMEs. | Python (Django/FastAPI), Next.js, Node.js Web3 |
+| **Agrosight AI** | Edge-deployed crop diagnostic tool utilizing computer vision, designed for low-bandwidth rural networks and WhatsApp API. | Python, YOLOv8, Next.js |
+| **Camouflage Protocol** | Privacy-preserving B2B payment infrastructure on Solana that protects sensitive corporate transaction data. | TypeScript, Solana, Cloak ZKP |
+| **Talos (OpenClaw Vault)** | Secure execution layer allowing AI tools to safely automate internal B2B workflows without exposing root API credentials. | Go, Auth0, Next.js |
+| **Hungerless Engine** | Predictive logistics and geospatial routing engine built for anticipatory humanitarian aid deployment. | Python, Geospatial Mapping |
 
 ---
 
 ## Engineering Principles
 
-**Correctness over shortcuts**  
-Financial and blockchain systems must behave predictably under all conditions.
+**Reliability over novelty** Tools should solve problems, not create them. I build systems designed to handle edge cases gracefully and operate predictably under all conditions.
 
-**Backends do the heavy lifting**  
-Sensitive logic, signing, and validation belong on the server — not the client.
+**Secure by default** Whether handling business data or digital assets, security, key management, and access control are built-in from day one.
 
-**AI as infrastructure, not magic**  
-LLMs are tools that require guardrails, context, and deterministic outputs.
+**AI as a practical utility, not magic** LLMs and generative models are powerful, but they require strict deterministic guardrails and validation to be trusted in live business operations.
 
-**Security is a feature**  
-Key management, access control, and failure modes are first-class concerns.
+**Backends do the heavy lifting** Complex validation, transaction signing, and security logic belong on the server, keeping client applications fast, secure, and lightweight.
 
 ---
 
 ## Current Focus
 
-- Web3-enabled fintech products
-- Wallet infrastructure and blockchain integrations
-- AI-powered financial assistants and automation
-- React + Node.js systems with production constraints
+- Workflow automation and data processing for SMEs and NGOs
+- Practical Web3 integrations (Payments, Smart Wallets)
+- Full-stack React (Next.js) + Node/Python engineering
+- Computer vision and edge-deployed AI solutions
 
 ---
 
-🔗 [Ithoka Microsystems](https://ithoka-microsystems.vercel.app)  
-🔗 [LinkedIn](https://www.linkedin.com/in/nicholas-muthoki)  
-🔗 [GitHub](https://github.com/Nick-Maximillien)
+🔗 [Ithoka Microsystems](https://www.ithoka.systems)  
+🔗 [LinkedIn](https://www.linkedin.com/in/nicholas-muthoki-5642a7288)
