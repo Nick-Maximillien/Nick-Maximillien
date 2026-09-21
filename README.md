@@ -1,56 +1,104 @@
 # Nicholas Muthoki
 
-### Software Developer | AI Integrations & Web3 Solutions
+**Software & Systems Engineer**
 
-I build reliable, production-grade software that solves real-world operational bottlenecks for growing businesses, startups, and NGOs. My focus is on automated workflows, secure infrastructure, and practical AI that saves time and reduces manual errors.
+I build software and technical systems around real problems, working across business systems, automation, applied AI, computer vision, blockchain infrastructure, and data-intensive applications.
 
-**Currently:** Founder & Software Developer at [Ithoka Microsystems](https://www.ithoka.systems)
+My current work at **Ithoka Microsystems** focuses on business systems research, software engineering, technical integrations, and automation. I work across the application, backend, data, AI, and infrastructure layers depending on what the problem requires.
 
----
+## What I work with
 
-## What I Work On
+**Languages**
 
-I specialize in **end-to-end full-stack development** — taking complex requirements and turning them into accessible, secure tools.
+Python · TypeScript · JavaScript · Go · Rust · Solidity · SQL
 
-- **Practical AI Integrations:** Building automated data extraction and processing pipelines (RAG, LLMs, Computer Vision) that actually work in production environments.
-- **Secure Web3 Infrastructure:** Developing smart contracts, wallet integrations, and privacy-preserving payment rails (EVM, Solana).
-- **Workflow Automation:** Replacing manual back-office tasks with secure, reliable backend microservices.
-- **Full-Stack Delivery:** Crafting clean, responsive user interfaces (React/Next.js, Typescript) backed by robust backends (NodeJS, Python, Go, Rust).
+**Application & Backend**
 
----
+Next.js · React · Django · Django REST Framework · FastAPI · Node.js · Celery · REST APIs
 
-## Selected Projects 
+**AI & Machine Learning**
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **AutoBooks Finance** | Automated bookkeeping engine that combines AI receipt parsing with secure Web3 payment rails for SMEs. | Python (Django/FastAPI), Next.js, Node.js Web3 |
-| **Agrosight AI** | Edge-deployed crop diagnostic tool utilizing computer vision, designed for low-bandwidth rural networks and WhatsApp API. | Python, YOLOv8, Next.js |
-| **Camouflage Protocol** | Privacy-preserving B2B payment infrastructure on Solana that protects sensitive corporate transaction data. | TypeScript, Solana, Cloak ZKP |
-| **Talos (OpenClaw Vault)** | Secure execution layer allowing AI tools to safely automate internal B2B workflows without exposing root API credentials. | Go, Auth0, Next.js |
-| **Hungerless Engine** | Predictive logistics and geospatial routing engine built for anticipatory humanitarian aid deployment. | Python, Geospatial Mapping |
+Large Language Models · Multimodal AI · Computer Vision · YOLO · NLP · RAG · Dataset Preparation · Model Evaluation · Image Processing
 
----
+**Blockchain & Distributed Systems**
 
-## Engineering Principles
+Solidity · EVM · Solana · Anchor · Smart Contracts · Wallet Infrastructure · Web3 Integrations · Zero-Knowledge / Privacy Systems
 
-**Reliability over novelty** Tools should solve problems, not create them. I build systems designed to handle edge cases gracefully and operate predictably under all conditions.
+**Data & Infrastructure**
 
-**Secure by default** Whether handling business data or digital assets, security, key management, and access control are built-in from day one.
+PostgreSQL · Redis · Pandas · NumPy · pgvector · Docker · Linux
 
-**AI as a practical utility, not magic** LLMs and generative models are powerful, but they require strict deterministic guardrails and validation to be trusted in live business operations.
+**Cloud & Deployment**
 
-**Backends do the heavy lifting** Complex validation, transaction signing, and security logic belong on the server, keeping client applications fast, secure, and lightweight.
+Google Cloud · Cloud Run · Cloud SQL · Vercel · Render · Asynchronous Workers
 
----
+## Selected work
 
-## Current Focus
+### Ithoka Business Suite
 
-- Workflow automation and data processing for SMEs and NGOs
-- Practical Web3 integrations (Payments, Smart Wallets)
-- Full-stack React (Next.js) + Node/Python engineering
-- Computer vision and edge-deployed AI solutions
+Business operations software connecting enterprise structure, branches, people, stock, terminals, transactions, and operational records.
 
----
+**Work:** systems architecture, backend services, operational workflows, data models, integrations, and deployment-oriented engineering.
 
-🔗 [Ithoka Microsystems](https://www.ithoka.systems)  
-🔗 [LinkedIn](https://www.linkedin.com/in/nicholas-muthoki-5642a7288)
+### AutoBooks Finance
+
+Financial software combining document processing, accounting workflows, structured validation, and automation.
+
+**Work:** application architecture, backend engineering, AI workflows, data processing, and blockchain integration.
+
+### Agrosight AI
+
+An agricultural computer-vision platform for crop disease and pest detection with web, API, and messaging delivery.
+
+**Work:** model development, dataset preparation, inference services, backend APIs, frontend delivery, and deployment.
+
+### Nexus Forensic
+
+AI and data engineering work exploring the use of structured protocols and constrained retrieval to evaluate clinical and procedural events.
+
+**Work:** Python backends, data pipelines, model development, and supporting datasets and artifacts.
+
+### Camouflage Protocol
+
+Privacy infrastructure on Solana exploring zero-knowledge proofs for sensitive blockchain transactions.
+
+**Work:** protocol development, blockchain infrastructure, and technical documentation.
+
+### CFO Shield
+
+Secure execution infrastructure for AI-enabled business workflows using Go, Next.js, Auth0 Token Vault, and standards-based token exchange.
+
+**Work:** secure workflow infrastructure and integration between AI tools and external business systems.
+
+## How I approach engineering
+
+I generally start with the problem and the requirements around it, then choose the technology that fits.
+
+That means working across software architecture, backend systems, databases, AI, blockchain, integrations, and infrastructure rather than treating any one technology as the destination.
+
+## Experience
+
+**Ithoka Microsystems**  
+Systems Architect & Enterprise Solutions Consultant  
+Jul 2025 – Present
+
+**AyaHQ (Techstars '23) × Lisk Incubation Program**  
+Founder-in-Residence  
+Nov 2025 – Feb 2026
+
+**HakiChain**  
+Blockchain & Backend Engineer  
+Oct 2025 – Feb 2026
+
+**I&M Bank Ltd**  
+Junior Software Engineer  
+Jan 2024 – Dec 2024
+
+## More
+
+- [Personal site](https://nick.ithoka.systems)
+- [LinkedIn](https://www.linkedin.com/in/nicholas-muthoki-5642a728/)
+- [Ithoka Microsystems](https://www.ithoka.systems)
+- [Hugging Face](https://huggingface.co/Nick-Maximillien)
+
+📫 **nicholasmuthoki@gmail.com**
